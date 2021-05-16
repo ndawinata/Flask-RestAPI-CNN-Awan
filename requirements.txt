@@ -1,3 +1,4 @@
 tensorflow-cpu
 Flask
 gunicorn
+pillow
